@@ -1,4 +1,4 @@
-# 👨‍💻 [Your Name] | Backend Architect & Fullstack Explorer
+# 👨‍💻 [Mc Michael Codes] | Backend Architect & Fullstack Explorer
 
 <p align="center">
   <img src="https://vercel.app" />
@@ -13,6 +13,7 @@
 ---
 
 ### 🛠️ Technical Arsenal
+
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -31,17 +32,16 @@
 
 ---
 
-### 📂 Featured Systems [Pinned]
-> *“Talk is cheap. Show me the code.”*
+### 📂 Featured Systems
 
-1.  **[Project Name]** - Django REST Framework backend deployed on Render.
-2.  **[Torilo Shop]** - React frontend deployed on Vercel.
+1.  **[Torilo Shop]** - Django REST Framework backend.
+2.  **[Other Project]** - React frontend deployed on Vercel.
 
 ---
 
 ### 🤝 Connectivity
 <p align="left">
-<a href="mailto:your-email@example.com"><img src="https://shields.io" /></a>
+<a href="mailto:mailermichael2@example.com"><img src="https://shields.io" /></a>
 <a href="https://linkedin.com"><img src="https://shields.io" /></a>
 </p>
 
